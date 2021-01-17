@@ -1,3 +1,3 @@
 # RouteGame
 
-Route game is simlpe python code to lear if else statments
+Route game is simlpe python code to learn if else statments
